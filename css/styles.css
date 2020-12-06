@@ -1,0 +1,122 @@
+/*############################## TAG SELECTORS ##############*/
+body {
+  background-color: #f0f5f9;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #52616b
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #52616b
+}
+
+div {
+  background-color: #c9d6df;
+  margin: 0;
+}
+
+hr {
+    border-color: grey;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 3%;
+    margin: 100px auto 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a:hover {
+  color: #c9d6df;
+}
+/*############################## CLASS SELECTORS ##############*/
+.top-container {
+  background-color: #c9d6df;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #c9d6df;
+}
+
+.bottom-container {
+  background-color: #52616b;
+  padding: 30px;
+}
+
+
+.ninja_logo {
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  opacity: 0.7;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.data-analytics {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.soccer {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link {
+  padding: 10px;
+  color: #f0f5f9;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contact-desc {
+  width: 40%;
+  margin: auto;
+}
+
+.copyright {
+  color: #f0f5f9;
+  font-size: 75%;
+
+}
+
+.btn {
+  background-color: #52616b;
+  color: #f0f5f9;
+  text-decoration: none;
+  margin: 75px auto 75px auto;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+/*############################## ID SELECTORS ##############*/
